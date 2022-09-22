@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+body {
+	font-family: Lato;
+}
+
+.link {
+	margin-bottom: 40px;
+	text-align: right;
+}
+
+.facebook {
+	padding: 0 12px;
+}
+
+.twitter {
+	padding-right: 13px;
+}
+
+.link p {
+	display: inline;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 26px;
+}
+
+.__container {
+	width: 810px;
+	margin: 0 auto;
+}
+
+.header h1 {
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 60px;
+	margin-bottom: 26px;
+}
+
+.main_img {
+	margin-bottom: 60px;
+}
+
+.main__title {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+	margin-bottom: 24px;
+}
+
+.main__text {
+	margin-bottom: 48px;
+}
+
+.main__text p {
+	padding-bottom: 24px;
+}
+
+.content p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 27px;
+}
+
+.lorem p{
+	margin: 0 0 0 58px;
+	padding-bottom: 48px;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.list__text {
+	margin-bottom: 24px;
+}
+
+.list li {
+	padding: 0 0 4px 16px;
+	margin-bottom: 24px;
+}
+
+.share-link {
+	margin: -26px 0 123px 0;
+	text-align: right;
+}
+
+.share-title {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 26px;
+	color: #1E212C;
+}
+
+.share-link p{
+	display: inline;
+}
+
+.tags {
+	margin: 60px 0 0px 0;
+}
+
+.tags-title {
+	display: inline;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 26px;
+	color: #1E212C;
+}
+
+.learning,
+.hr,
+.self {
+	margin-right: 12px;
+	display: inline-block;
+	color: #787A80;
+}
+
+.learning {
+	padding: 5.5px 16px;
+	width: 91px;
+	text-align: center;
+	border: 1px solid #D7DADD;
+	border-radius: 4px;
+}
+
+.hr {
+	padding: 5.5px 16px;
+	width: 60px;
+	border: 1px solid #D7DADD;
+	border-radius: 4px;
+}
+
+.self {
+	padding: 5.5px 16px;
+	width: 180px;
+	border: 1px solid #D7DADD;
+	border-radius: 4px;
+}
+
+footer img {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+
+.footer p {
+	margin-bottom: 20px;
+	box-shadow: 5px 2px black;
+}
+
+
+
